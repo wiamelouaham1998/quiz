@@ -1,0 +1,3 @@
+242005001 &nbsp;	123620 &nbsp;	24 octobre 2005 &nbsp;	Tomates &nbsp;	4&nbsp; euros 	4.1&nbsp;	26 octobre 2005 	&nbsp;22 Rue du Paradis Fonty Agadir &nbsp;
+242005001 &nbsp;	123620 &nbsp;	24 octobre 2005 &nbsp;	Tomates 2005 &nbsp;	6&nbsp; euros 	3.2&nbsp;	28 octobre 2005 	&nbsp; 22 Rue du Paradis Fonty Agadir &nbsp;
+242005001 &nbsp;	123620 &nbsp;	24 octobre 2005 &nbsp;	Tomates &nbsp;	8&nbsp; euros 	3.5&nbsp;	29 octobre 2005 	&nbsp; 22 Rue du Paradis Fonty Agadir &nbsp;
